@@ -42,11 +42,13 @@ According to the Syllabus, you have to provide a Workplan and **Team Member Cont
 ## Publication
 
 - This repository is private in its initial state. So, when you render the website it can only be viewed locally. 
-- Your project can stay private forever and be deleted after submission and grading, but it can also be published as a website and be part of your portfolios. The instructor supports and recommends it. Both ways have some inplications:
+- Your project can stay private forever and be deleted after submission and grading, but it can also be published as a website and be part of your portfolios. The instructor supports and recommends it. 
+- Both ways have some inplications.
 
 Public Website (Recommended): 
 
 - It is recommended to start immediately with a public repository and setup the public Website with [GitHub Pages](https://docs.github.com/en/pages). That way you have a direct feedback how your work looks on the internet. (Just that the website is published does not mean that many people visit it, although they could.)
+- This is how it looks on the Internet in its [initial state](https://janlorenz.github.io/DataScienceLab_Template/)
 - Inform the instructor if you have group consensus that you work in public, then the repository is made public. 
 - Follow the instructions to publish with GitHub Pages from the Quarto Documentation: [https://quarto.org/docs/publishing/github-pages.html]. 
     - The docs explain three ways. A good way is the second one [Publish Command](https://quarto.org/docs/publishing/github-pages.html#publish-command). Follow the instructions carefully, in particular the section [Source branch](https://quarto.org/docs/publishing/github-pages.html#source-branch). The basic idea is: You create a branch `gh-pages` which is solely used for the `_site` data of the website and then tell GitHub pages to take the website from there. Once the `gh-pages` branch is created you go back to the `main` branch and care anymore about the other. The command `quarto publish gh-pages` will update the website. 
