@@ -8,4 +8,4 @@ a short description of the project and how to access its content.*
 
 *Replace all italics text before submission with information for the
 instructor and also for the general public when this repository shall be
-and stay public. *
+and stay public.*
