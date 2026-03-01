@@ -1,0 +1,53 @@
+[
+  {
+    "objectID": "sec2.html#headline-2",
+    "href": "sec2.html#headline-2",
+    "title": "Title of Section 2",
+    "section": "Headline 2",
+    "text": "Headline 2",
+    "crumbs": [
+      "Home",
+      "Title of Section 2"
+    ]
+  },
+  {
+    "objectID": "introduction.html",
+    "href": "introduction.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "Project Description\nWrite here about the goals and/or list your data science questions.\n\n\nData Sources\nWrite a summary of the data sources you are using. If some data is used in most of the following pages you can already here provide some descriptive tables and visuals to describe your data. You can also use cross-links, for example to your Dashboard (optional).\n\n\nSections\nWrite here a short summary of the other pages. You can also use cross-links to your pages like Section (here sec2.ipynb).",
+    "crumbs": [
+      "Home",
+      "Introduction"
+    ]
+  },
+  {
+    "objectID": "conclusion.html",
+    "href": "conclusion.html",
+    "title": "Conclusion",
+    "section": "",
+    "text": "Write a concluding section for your project here. A conclusion can emphasize selected key findings and put them into a larger context. In the conclusion, you can also discuss limitation and potential applications and extensions of your analysis. The conclusion need not be long (200 words can be enough). It can be longer, if you have some sensible points to discuss.",
+    "crumbs": [
+      "Home",
+      "Conclusion"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Executive Summary",
+    "section": "",
+    "text": "Write a one-page (about 200-600 words) executive summary of your project here. This should be a concise summary of the problem you are addressing, the data you are using, the methods you are applying, and the key findings and conclusions of your project. The executive summary should be written in a way that is accessible to a general audience, and should highlight the most important aspects of your project. Use cross-links to your pages like the Introduction, Each Section (here sec2.ipynb), Conclusion, and your Dashboard (optional). Remove this text when you write your dashboard."
+  },
+  {
+    "objectID": "sec1.html#headline-2",
+    "href": "sec1.html#headline-2",
+    "title": "Title of Section 1",
+    "section": "Headline 2",
+    "text": "Headline 2",
+    "crumbs": [
+      "Home",
+      "Title of Section 1"
+    ]
+  }
+]
