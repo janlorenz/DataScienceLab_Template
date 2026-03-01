@@ -1,6 +1,5 @@
 # README
 
-
 This data science project is built in the Course Data Science Lab at
 Constructor University Bremen.
 
